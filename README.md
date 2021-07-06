@@ -4,8 +4,6 @@ Implementation of Memory Management Unit at application level
 Assignment in Konkuk Univ. Operating System class by Prof. Hyun-Wook Jin
 
 ---
-
-</br>
    
 ## Introduction
 
@@ -22,8 +20,6 @@ Converts given virtual address with PID to physical address in [input.txt](./inp
 - PDE/PTE: 1B
 
 ---
-
-<br/>
 
 ## Data Structures
 
@@ -62,8 +58,6 @@ Converts given virtual address with PID to physical address in [input.txt](./inp
 ![swap_space_is_full](./images/swap_when_swapSpace_is_full.PNG)
 
 ---
-
-</br>
 
 ## Run
 
